@@ -133,6 +133,6 @@ Se quiser trocar uma ideia sobre edição, tráfego pago, copywriting ou desenvo
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/vivihlopes/vivihlopes/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/ronifaria/ronifaria/output/snake.svg" alt="Snake animation" />
 
 ###
