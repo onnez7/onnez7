@@ -180,7 +180,7 @@ Se quiser trocar uma ideia sobre edição, tráfego pago, copywriting ou desenvo
 <img 
       align="left" 
       alt="GitHub Stats" 
-      height="120" 
+      height="100%" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronifaria&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
