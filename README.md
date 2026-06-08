@@ -1,6 +1,5 @@
-<a href="https://github.com/orizn">
-  <div align="center"><img src="https://raw.githubusercontent.com/onnez7/onnez7/main/pc_wallpaper-removebg-preview.png" width="100%" height="250" style="object-fit: cover;" alt="PC Wallpaper Banner"/></div>
-</a>
+ <div align="center"><img src="https://raw.githubusercontent.com/onnez7/onnez7/main/pc_wallpaper-removebg-preview.png" width="100%" height="250" style="object-fit: cover;" alt="PC Wallpaper Banner"/></div>
+
 
 <div align="center">
   <a href="https://github.com/orizn?tab=repositories"><img alt="Stars" title="Stars Profile" src="https://img.shields.io/badge/STARS-0-000000?style=for-the-badge&labelColor=000000&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxNiAxNiIgd2lkdGg9IjE2IiBoZWlnaHQ9IjE2IiBmaWxsPSJ3aGl0ZSI+PHBhdGggZD0iTTggLjI1YS43NS43NSAwIDAgMSAuNjczLjQxOGwxLjg4MiAzLjgxNSA0LjIxLjYxMmEuNzUuNzUgMCAwIDEgLjQxNiAxLjI3OWwtMy4wNDYgMi45Ny43MTkgNC4xOTJhLjc1MS43NTEgMCAwIDEtMS4wODguNzkxTDggMTIuMzQ3bC0zLjc2NiAxLjk4YS43NS43NSAwIDAgMS0xLjA4OC0uNzlsLjcyLTQuMTk0TC44MTggNi4zNzRhLjc1Ljc1IDAgMCAxIC40MTYtMS4yOGw0LjIxLS42MTFMNy4zMjcuNjY4QS43NS43NSAwIDAgMSA4IC4yNVoiPjwvcGF0aD48L3N2Zz4=" /></a>
