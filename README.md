@@ -64,7 +64,7 @@
 <br>
 
 <div align="center">
-  <img src="https://github.com/Synaptara/Synaptara/blob/output/github-snake-dark.svg" width="100%">
+  <img src="https://raw.githubusercontent.com/onnez7/onnez7/output/github-snake-dark.svg" width="100%">
 </div>
 
 <br><br>
