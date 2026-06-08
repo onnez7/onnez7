@@ -1,5 +1,5 @@
 <a href="https://github.com/orizn">
-  <img src="https://i.postimg.cc/vHsQ0wRw/Gemini-Generated-Image-yc8ulhyc8ulhyc8u-(1).png" width="100%" alt="Banner"/>
+  <div align="center"><img src="https://raw.githubusercontent.com/onnez7/onnez7/main/pc_wallpaper-removebg-preview.png" width="100%" height="250" style="object-fit: cover;" alt="PC Wallpaper Banner"/></div>
 </a>
 
 <div align="center">
@@ -110,13 +110,40 @@
     </tr>
     <tr>
       <td align="right" valign="middle" style="padding-right: 20px;">
-        <strong>Linguagens & Tools</strong>
+        <strong>Frontend</strong>
       </td>
       <td align="left" valign="middle">
+        <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white">
+        <img src="https://img.shields.io/badge/React_Native-000000?style=for-the-badge&logo=react&logoColor=white">
+        <img src="https://img.shields.io/badge/Expo-000000?style=for-the-badge&logo=expo&logoColor=white">
+        <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white">
+        <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white">
+        <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=white">
+        <img src="https://img.shields.io/badge/Tailwind_CSS-000000?style=for-the-badge&logo=tailwindcss&logoColor=white">
+        <img src="https://img.shields.io/badge/Vite-000000?style=for-the-badge&logo=vite&logoColor=white">
+      </td>
+    </tr>
+    <tr>
+      <td align="right" valign="middle" style="padding-right: 20px;">
+        <strong>Backend & Dados</strong>
+      </td>
+      <td align="left" valign="middle">
+        <img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=white">
         <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white">
-        <img src="https://img.shields.io/badge/Bash-000000?style=for-the-badge&logo=gnubash&logoColor=white">
+        <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=white">
+        <img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white">
+        <img src="https://img.shields.io/badge/Prisma-000000?style=for-the-badge&logo=prisma&logoColor=white">
+        <img src="https://img.shields.io/badge/REST_APIs-000000?style=for-the-badge&logo=postman&logoColor=white">
+      </td>
+    </tr>
+    <tr>
+      <td align="right" valign="middle" style="padding-right: 20px;">
+        <strong>Ferramentas</strong>
+      </td>
+      <td align="left" valign="middle">
         <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white">
         <img src="https://img.shields.io/badge/VS_Code-000000?style=for-the-badge&logo=visualstudiocode&logoColor=white">
+        <img src="https://img.shields.io/badge/Bash-000000?style=for-the-badge&logo=gnubash&logoColor=white">
         <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white">
       </td>
     </tr>
